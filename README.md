@@ -28,7 +28,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 [what skills you used]
 
-[link to folder on GitHub or Google Colab doc]
+[link to GitHub repository or Google Colab doc]
 
 
 2. [Name]
@@ -37,7 +37,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 [what skills you used]
 
-[link to folder on GitHub or Google Colab doc]
+[link to GitHub repository or Google Colab doc]
 
 
 
@@ -47,7 +47,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 [what skills you used]
 
-[link to folder on GitHub or Google Colab doc]
+[link to GitHub repository or Google Colab doc]
 
 
 
@@ -57,7 +57,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 [what skills you used]
 
-[link to folder on GitHub or Google Colab doc]
+[link to GitHub repository or Google Colab doc]
 
 
 5. [Name]
@@ -66,7 +66,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 [what skills you used]
 
-[link to folder on GitHub or Google Colab doc]
+[link to GitHub repository or Google Colab doc]
 
 
 6. [Name]
@@ -75,7 +75,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 [what skills you used]
 
-[link to folder on GitHub or Google Colab doc]
+[link to GitHub repository or Google Colab doc]
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
