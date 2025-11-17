@@ -22,7 +22,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 **Projects/Repositories**
 
-1. [link](https://colab.research.google.com/drive/12Ikg2NUIrDXeADJhBQ0rI7IFfGAdx1xl?usp=sharing)
+1. [Name]
 
 [short description]
 
@@ -31,27 +31,48 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 [link to folder on GitHub or Google Colab doc]
 
 
-2. [link]
+2. [Name]
+
 [short description]
+
 [what skills you used]
+
 [link to folder on GitHub or Google Colab doc]
 
-3. [link]
+
+
+3. [Name]
+
 [short description]
+
 [what skills you used]
+
 [link to folder on GitHub or Google Colab doc]
 
-4. [link]
+
+
+4. [Name]
+
 [short description]
+
 [what skills you used]
+
 [link to folder on GitHub or Google Colab doc]
 
-5. [link]
+
+5. [Name]
+
 [short description]
+
 [what skills you used]
+
 [link to folder on GitHub or Google Colab doc]
 
-6. [link]
+
+6. [Name]
+
 [short description]
+
 [what skills you used]
+
 [link to folder on GitHub or Google Colab doc]
