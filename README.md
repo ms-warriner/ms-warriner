@@ -4,35 +4,50 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 
 **Technical Skills**
 
-Programming Languages:
+💻 Programming Languages:
 * Python
 * Java
 * C++
 * HTML/CSS/JavaScript
 
-Operating Systems:
+⚙️ Operating Systems:
 * Windows
 * ChromeOS
 * Linux
 
-Tools:
+🛠️ Tools:
 * GitHub
 * VS Code/IntelliJ/Anaconda
 * Google Colab/Jupyter Notebook
 
+**Projects/Repositories**
 
+1. [link](https://colab.research.google.com/drive/12Ikg2NUIrDXeADJhBQ0rI7IFfGAdx1xl?usp=sharing)
+[short description]
+[what skills you used]
+[link to folder on GitHub or Google Colab doc]
 
-<!--
-**ms-warriner/ms-warriner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. [link]
+[short description]
+[what skills you used]
+[link to folder on GitHub or Google Colab doc]
 
-Here are some ideas to get you started:
+3. [link]
+[short description]
+[what skills you used]
+[link to folder on GitHub or Google Colab doc]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4. [link]
+[short description]
+[what skills you used]
+[link to folder on GitHub or Google Colab doc]
+
+5. [link]
+[short description]
+[what skills you used]
+[link to folder on GitHub or Google Colab doc]
+
+6. [link]
+[short description]
+[what skills you used]
+[link to folder on GitHub or Google Colab doc]
