@@ -3,6 +3,7 @@
 My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinity.
 
 **Technical Skills**
+
 Programming Languages:
 * Python
 * Java
