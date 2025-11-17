@@ -76,3 +76,6 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 [what skills you used]
 
 [link to folder on GitHub or Google Colab doc]
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
