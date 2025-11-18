@@ -29,6 +29,7 @@ My name is Ms. Warriner. I teach computer science and mathematics at Holy Trinit
 [what skills you used]
 
 [link to GitHub repository or Google Colab doc]
+[Click here](https://docs.google.com/document/d/1fPzKWcWM2AivkohXBPB0IVLia5ujzFV9ck86WbpqGR4/edit?tab=t.0)
 
 
 2. [Name]
